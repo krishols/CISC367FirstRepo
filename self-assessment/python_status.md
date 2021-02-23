@@ -18,9 +18,7 @@ Somewhat familiar with:
 * Classes and Objects
 * File handling
 * Regular expressions
-
-Not too familiar with but could understand with some Googling: 
-
+* Sets
 
 No clue: 
 * Exception handling
